@@ -3,6 +3,7 @@ if(Hungry == "YES")
 {
     console.log("Eat Burger");
     console.log("drink water");
+    console.log("Eat Piazza");
 }
 else 
 {
