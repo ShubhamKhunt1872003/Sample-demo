@@ -1,7 +1,7 @@
 var Hungry = "YES"
 if(Hungry == "YES")
 {
-    console.log("Eat Panipuri");
+    console.log("Eat Fries");
 }
 else 
 {
