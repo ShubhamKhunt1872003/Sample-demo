@@ -2,6 +2,7 @@ var Hungry = "YES"
 if(Hungry == "YES")
 {
     console.log("Eat Burger");
+    console.log("drink water");
 }
 else 
 {
