@@ -5,6 +5,7 @@ if(Hungry == "YES")
 }
 else 
 {
+    console.log("read a magazine");
     console.log("read a book");    
     console.log("go to a sleep");
 }
